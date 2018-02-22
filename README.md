@@ -12,6 +12,7 @@ Data and motivation comes from research conducted at the Oxford Internet Institu
 
 
 ### Signatures 
+The time-series data contains signatures for all petitions at an hourly resolution. Additionally, we have the petition's main text, its author, the corresponding government department, opening date and closing date. As petitions are usually open for one year, we have approximately 365 * 24  ~ 9000 data points for each petition time-series. In the figure below, we can confirm the distribution of signatures following a multi-scale power-law. We were able to verify the signatures curve changing shape at both the critical values of 10000 and 100000 signatures. However, the change at 100000 is far more drastic meaning that petitions rarely grow much larger after achieving this mark. This is because the goal of any online petition is to reach 100k, which will prompt a parliamentary debate.
 <img src="https://user-images.githubusercontent.com/29401818/36397708-c4f9e80c-15bb-11e8-8d8c-bc35783410cb.png" height="400">
 
 ### Users
