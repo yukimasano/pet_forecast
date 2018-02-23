@@ -34,26 +34,21 @@ By using $K=4$ we can obtain three quite distinct clusters with silhouette score
 From the wordcloud figures we can confirm clusters 0, 1 and 3 representing distinct topics. These are children/eduction, taxes/benefits and  Scottish/EU referendum, while cluster 2 seems to contain rather unspecific terms, as could be presumed from the PCA plot above.
 
 ## Example petition time-series
-<img src="https://user-images.githubusercontent.com/29401818/36397047-d27a6c52-15b8-11e8-9a00-b57db4b35ce9.png" height="250">&nbsp;&nbsp;&nbsp;&nbsp <img src="https://user-images.githubusercontent.com/29401818/36397048-d2929ab6-15b8-11e8-8e51-1104d10f2465.png" height="250">
+<img src="https://user-images.githubusercontent.com/29401818/36397047-d27a6c52-15b8-11e8-9a00-b57db4b35ce9.png" height="250">&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/29401818/36397048-d2929ab6-15b8-11e8-8e51-1104d10f2465.png" height="250">
 
 
-### Users
-<img src="https://user-images.githubusercontent.com/29401818/36397016-b20f9db6-15b8-11e8-8394-b29935fa817a.png" height="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp<img src="https://user-images.githubusercontent.com/29401818/36397017-b2269b4c-15b8-11e8-8e2b-8f8409ace6ef.png" height="200">
+### Twitter Users
+
+<img src="https://user-images.githubusercontent.com/29401818/36590428-8d92d464-1886-11e8-95f1-9ebc7740330e.png" height="300">
+
+<img src="https://user-images.githubusercontent.com/29401818/36397016-b20f9db6-15b8-11e8-8394-b29935fa817a.png" height="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/29401818/36397017-b2269b4c-15b8-11e8-8e2b-8f8409ace6ef.png" height="200">
 
 
 ## Model
 
 ## Results
 
-<img src="" height="400">
-
-<img src="" height="400">
-
-<img src="" height="400">
-
-<img src="" height="400">
-
-<img src="" height="400">
+<img src="https://user-images.githubusercontent.com/29401818/36590443-9bb472d2-1886-11e8-93b0-6b8c1b159e14.png" height="400">&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/29401818/36590444-9bc768ba-1886-11e8-999a-6aa86a36346e.png" height="400">
 
 
 ## Code
