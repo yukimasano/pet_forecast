@@ -39,7 +39,7 @@ From the wordcloud figures we can confirm clusters 0, 1 and 3 representing disti
 
 ### Twitter Users
 
-<img src="https://user-images.githubusercontent.com/29401818/36590428-8d92d464-1886-11e8-95f1-9ebc7740330e.png" height="300">
+<img src="https://user-images.githubusercontent.com/29401818/36590428-8d92d464-1886-11e8-95f1-9ebc7740330e.png" height="200">
 
 <img src="https://user-images.githubusercontent.com/29401818/36397016-b20f9db6-15b8-11e8-8394-b29935fa817a.png" height="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/29401818/36397017-b2269b4c-15b8-11e8-8e2b-8f8409ace6ef.png" height="200">
 
@@ -48,7 +48,7 @@ From the wordcloud figures we can confirm clusters 0, 1 and 3 representing disti
 
 ## Results
 
-<img src="https://user-images.githubusercontent.com/29401818/36590443-9bb472d2-1886-11e8-93b0-6b8c1b159e14.png" height="400">&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/29401818/36590444-9bc768ba-1886-11e8-999a-6aa86a36346e.png" height="400">
+<img src="https://user-images.githubusercontent.com/29401818/36590443-9bb472d2-1886-11e8-93b0-6b8c1b159e14.png" height="300">&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/29401818/36590444-9bc768ba-1886-11e8-999a-6aa86a36346e.png" height="300">
 
 
 ## Code
